@@ -46,8 +46,20 @@ build_metadata.AdditionalFiles.ManifestResourceName = project_interview_task.Res
 build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources/Styles/Styles.xaml
 
-[/Users/edgarflores/Documents/dev/maui-projects/maui-project-interview-task/project-interview-task/View/RotatePage.xaml]
+[/Users/edgarflores/Documents/dev/maui-projects/maui-project-interview-task/project-interview-task/Views/ModalView.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = project_interview_task.View.RotatePage.xaml
-build_metadata.AdditionalFiles.TargetPath = View/RotatePage.xaml
-build_metadata.AdditionalFiles.RelativePath = View/RotatePage.xaml
+build_metadata.AdditionalFiles.ManifestResourceName = project_interview_task.Views.ModalView.xaml
+build_metadata.AdditionalFiles.TargetPath = Views/ModalView.xaml
+build_metadata.AdditionalFiles.RelativePath = Views/ModalView.xaml
+
+[/Users/edgarflores/Documents/dev/maui-projects/maui-project-interview-task/project-interview-task/Views/RotateView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = project_interview_task.Views.RotateView.xaml
+build_metadata.AdditionalFiles.TargetPath = Views/RotateView.xaml
+build_metadata.AdditionalFiles.RelativePath = Views/RotateView.xaml
+
+[/Users/edgarflores/Documents/dev/maui-projects/maui-project-interview-task/project-interview-task/Views/UserDeviceInfoView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = project_interview_task.Views.UserDeviceInfoView.xaml
+build_metadata.AdditionalFiles.TargetPath = Views/UserDeviceInfoView.xaml
+build_metadata.AdditionalFiles.RelativePath = Views/UserDeviceInfoView.xaml

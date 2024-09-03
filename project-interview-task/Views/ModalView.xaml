@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ContentPage
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    Shell.PresentationMode="Modal"
+    x:Class="project_interview_task.Views.ModalView">
+    <ContentPage.Content>
+        <StackLayout Orientation="Vertical"
+                VerticalOptions="Center"
+                Padding="30,24,30,24"
+                Spacing="25">
+            <Label Text="{Binding SelectedItem}"
+                    FontSize="Title"></Label>
+            <Label Text="{Binding DeviceMeterics}"></Label>
+            <Button Text="Dismiss"
+                    Command="{Binding CloseCommand}"></Button>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

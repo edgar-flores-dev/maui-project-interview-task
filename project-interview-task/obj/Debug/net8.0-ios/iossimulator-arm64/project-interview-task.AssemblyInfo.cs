@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("project-interview-task")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+74469545070efea91c090428aa7542eca80ee7a0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+b0c55139e7db0b20961feefa307602a21cc97224")]
 [assembly: System.Reflection.AssemblyProductAttribute("project-interview-task")]
 [assembly: System.Reflection.AssemblyTitleAttribute("project-interview-task")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
