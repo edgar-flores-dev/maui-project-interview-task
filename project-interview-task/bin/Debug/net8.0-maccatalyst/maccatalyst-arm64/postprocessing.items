@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="project-interview-task.app/Contents/MacOS/project-interview-task">
+      <IsAppExtension>false</IsAppExtension>
+      <BCSymbolMapName>project-interview-task.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>project-interview-task.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>/Users/edgarflores/Documents/dev/maui-projects/maui-project-interview-task/project-interview-task/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/mtouch-symbols.list</SymbolFile>
+      <DSymName>project-interview-task.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/edgarflores/Documents/dev/maui-projects/maui-project-interview-task/project-interview-task</SourceProjectPath>
+      <IsXPCService></IsXPCService>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="project_interview_task.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:project_interview_task"
+    Shell.FlyoutBehavior="Disabled"
+    Title="project_interview_task">
+
+    <ShellContent
+        Title="Home"
+        ContentTemplate="{DataTemplate local:MainPage}"
+        Route="MainPage"/>
+
+    <!-- <TabBar>
+        <ShellContent Title="Rotate"
+                      Route="RotateView"
+                      ContentTemplate="{DataTemplate local:RotateView}">
+            <ShellContent.Icon>
+                <FontImageSource FontFamily="FAS"
+                                 Glyph="{x:Static fontAwesome:FontAwesomeIcons.Sync}"></FontImageSource>
+            </ShellContent.Icon>
+        </ShellContent>
+        <ShellContent Title="Info"
+                      Route="UserDeviceInfoView"
+                      ContentTemplate="{DataTemplate local:UserDeviceInfoView}">
+            <ShellContent.Icon>
+                <FontImageSource FontFamily="FAS"
+                                 Glyph="{x:Static fontAwesome:FontAwesomeIcons.InfoCircle}"></FontImageSource>
+            </ShellContent.Icon>
+        </ShellContent>
+    </TabBar> -->
+
+</Shell>
